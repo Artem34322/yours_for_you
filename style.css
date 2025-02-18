@@ -1,18 +1,45 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #B4BEC9;
+}
+h1 {
+    color: #002333;
+}
 .header {
     display: flex;
-    background-color: #41cdcd;
+    background-color: #DEEFE7;
     justify-content: space-between;
     align-items: center;
 
 }
-.über {
-    font-family: 'Times New Roman', Times, serif;
-}
+
 .crumbs ol {
     list-style-type: none;
     padding-left: 0;
-  }
-  
-  .crumb {
+}
+
+.crumb {
     display: inline-block;
+}
+
+.foto1 {
+    width: 100px;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.button {
+    background-color: #002333; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
   }
