@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    background-color: #41cdcd;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.über {
+    font-family: 'Times New Roman', Times, serif;
+}
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .crumb {
+    display: inline-block;
+  }
