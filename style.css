@@ -54,3 +54,7 @@ h1 {
     display: grid;
     gap: 20px;
 }
+
+.pad{
+    padding: 1em;
+}
