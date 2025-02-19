@@ -58,11 +58,28 @@ h1 {
 }
 
 .grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
+}
+
+.grid-element {
+    min-height: 50px;
 }
 
 .pad {
     padding: 1em;
 }
+
+.element { 
+    width: 90%;
+    height: auto;
+    border-radius: 15px;
+    background-color: Snow;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .block {
+    position: sticky;
+    top: 0px;
+  }

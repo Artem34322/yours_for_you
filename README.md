@@ -13,3 +13,11 @@ To do list:
 - [ ] Buton SHOP
 - [ ] Foto from T-shirts
 - [ ] Produktlist
+
+
+Fragen: 
+
+    <meta> name="author" content="Yours_For_You">
+    <meta> name="keywords" content="Yours_For_You, YFY, Fashion, Shop, Trending, T-Shirts, White, $25">
+
+Snipes icon
