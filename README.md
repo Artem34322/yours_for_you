@@ -5,7 +5,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://tailwindui.com/components/ecommerce/components/product-lists
 https://placehold.co/
 https://developer.mozilla.org/en-US/docs/Web/CSS/margin
-https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
 
 To do list:
 
