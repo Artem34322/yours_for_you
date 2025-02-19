@@ -1,18 +1,19 @@
-body{
+body {
     font-family: Arial, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #B4BEC9;
 }
+
 h1 {
     color: #002333;
 }
+
 .header {
     display: flex;
     background-color: #DEEFE7;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .crumbs ol {
@@ -39,8 +40,14 @@ h1 {
     display: flex;
     justify-content: space-between;
 }
+
+.container.center {
+    justify-content: center;
+    text-align: center;
+}
+
 .button {
-    background-color: #002333; 
+    background-color: #002333;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -48,13 +55,14 @@ h1 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+}
+
 .grid {
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     display: grid;
     gap: 20px;
 }
 
-.pad{
+.pad {
     padding: 1em;
 }
