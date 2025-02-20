@@ -16,6 +16,11 @@ h1 {
     align-items: center;
 }
 
+.header_1 {
+    display: flex;
+    background-color: #B4BEC9;
+}
+
 .crumbs ol {
     list-style-type: none;
     padding-left: 0;
@@ -41,9 +46,8 @@ h1 {
     justify-content: space-between;
 }
 
-.contain.center {
-    justify-content: center;
-    text-align: center;
+.contain-center {
+    align-items: center;
 }
 
 .pad {
@@ -77,5 +81,15 @@ h1 {
 }
 .C5{
     color: #FFFFFF;
+}
+
+.pad1 {
+        padding-left: 20%;
+        padding-right: 20%;
+}
+
+.pad2 {
+    padding-left: 10%;
+    padding-right: 10%;
 }
  
