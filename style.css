@@ -92,4 +92,9 @@ h1 {
     padding-left: 10%;
     padding-right: 10%;
 }
- 
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
