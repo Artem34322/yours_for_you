@@ -36,35 +36,14 @@ h1 {
     height: auto;
 }
 
-.container {
+.contain {
     display: flex;
     justify-content: space-between;
 }
 
-.container.center {
+.contain.center {
     justify-content: center;
     text-align: center;
-}
-
-.button {
-    background-color: #002333;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
-
-.grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
-}
-
-.grid-element {
-    min-height: 50px;
 }
 
 .pad {
@@ -83,3 +62,20 @@ h1 {
     position: sticky;
     top: 0px;
   }
+
+.C1 {
+    color: #B4BEC9;
+}
+.C2 {
+    color: #159A9C;
+}
+.C3 {
+    color: #002333;
+}
+.C4 {
+    color: #DEEFE7;
+}
+.C5{
+    color: #FFFFFF;
+}
+ 
