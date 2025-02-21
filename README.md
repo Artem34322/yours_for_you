@@ -8,6 +8,7 @@ https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Structuring_con
 https://flowbite.com/docs/getting-started/introduction/
 https://favicon.io/
 https://www.behance.net/gallery/196882855/SHOPIFY-STORE-ECOMMERCE-ONLINE-SHOP?tracking_source=search_projects%7Conline+shop&l=1
+https://tailwindcss.com/docs/installation/using-vite
 
 To do list:
 
@@ -15,8 +16,6 @@ To do list:
 - [ ] Buton SHOP
 - [ ] Foto from T-shirts
 - [ ] Produktlist
-
-
 
 
 
